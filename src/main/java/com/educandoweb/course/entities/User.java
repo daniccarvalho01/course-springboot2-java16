@@ -1,7 +1,6 @@
 package com.educandoweb.course.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import net.bytebuddy.dynamic.loading.InjectionClassLoader;
 
 import javax.persistence.*;
 import java.io.Serializable;
